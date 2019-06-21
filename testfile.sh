@@ -1,5 +1,5 @@
 #!/bin/bash
 echo "Running the script"
-OS=$(cat /etc/lsb-release)
-echo "The os details are: $OS"
-echo "-----------------------"
+Userdetails=$(cat /etc/passwd)
+OS version=$(cat /etc/*release)
+
