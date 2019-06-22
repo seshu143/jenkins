@@ -1,3 +1,4 @@
 #!/bin/bash
-yum update -y
+Print the username= $USERNAME
+echo $USERNAME
 
