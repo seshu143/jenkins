@@ -1,4 +1,4 @@
 #!/bin/bash
-Print the username= $USERNAME
-echo $USERNAME
+Print the hostname= $HOSTNAME
+echo $HOSTNAME
 
